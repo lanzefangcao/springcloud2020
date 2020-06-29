@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:lanzefangcao/springcloud-config.git
+          uri: git@github.com:lanzefangcao/springcloud-config.git #修改一下
           search-paths:
             - springcloud-config
       label: master
